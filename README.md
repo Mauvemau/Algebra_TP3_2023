@@ -1,1 +1,5 @@
-Mauricio Damian Salazar
+Integrantes:
+
+- Digilio
+- Monastra
+- Salazar
